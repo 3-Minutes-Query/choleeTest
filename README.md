@@ -2,7 +2,7 @@
   <img width="500" alt="스크린샷 2024-04-03 오전 11 04 23" src="https://github.com/Caps-Job-Hunting/coding-test-first-class/assets/114224596/0196c88a-e47a-4a3d-8cd8-886bd724a802">
   <h1>coding-test 1기</h1>
 </div>
-
+![김정모](https://github.com/3-Minutes-Query/choleeTest/assets/102345450/de30f8e3-c63b-493d-9d8b-abe45487760f)
 ### 🐶 1st MEMBER 
 <table>
   <tbody>
