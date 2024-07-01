@@ -1,4 +1,4 @@
-# 📢 한국 생활 정보와 커뮤니티를 한눈에!
+# 📢 배비서 ~ 
 
 > "Discover Korea Together: Connect, Share, and Thrive!"
 > ![image](https://github.com/beyond-sw-camp/be04-4th-OmokNoonE-OnionHotSayYo/assets/118791747/3080ca9c-37dc-4734-b13a-a168ca033705)
@@ -18,14 +18,13 @@
 
 ## 🍛 Group 3 - Minute Query
 
-| <img src="https://avatars.githubusercontent.com/u/119058637?v=4" height=150/> | <img src="https://github.com/3-Minutes-Query/choleeTest/assets/102345450/535b423b-f9c6-4c9a-8052-d1484c7145fb" height=150/> | <img src="https://github.com/3-Minutes-Query/choleeTest/assets/102345450/1046b24a-5d40-4dc1-a747-cb65f20dc764" height=150/> | <img src="https://github.com/3-Minutes-Query/choleeTest/assets/102345450/3679e77e-3678-4f16-a927-04b2c9f2309d" height=150/> | <img src="https://github.com/3-Minutes-Query/choleeTest/assets/102345450/e5de118d-7587-416b-bd9b-d965db443df1" height=150/> | <img src="https://github.com/3-Minutes-Query/choleeTest/assets/102345450/589d04ac-c48f-4491-a2f4-6f372ad95138" height=150/> |
+| <img src="https://avatars.githubusercontent.com/u/119058637?v=4" height=100/> | <img src="https://github.com/3-Minutes-Query/choleeTest/assets/102345450/535b423b-f9c6-4c9a-8052-d1484c7145fb" height=100/> | <img src="https://github.com/3-Minutes-Query/choleeTest/assets/102345450/1046b24a-5d40-4dc1-a747-cb65f20dc764" height=100/> | <img src="https://github.com/3-Minutes-Query/choleeTest/assets/102345450/3679e77e-3678-4f16-a927-04b2c9f2309d" height=100/> | <img src="https://github.com/3-Minutes-Query/choleeTest/assets/102345450/e5de118d-7587-416b-bd9b-d965db443df1" height=100/> | <img src="https://github.com/3-Minutes-Query/choleeTest/assets/102345450/589d04ac-c48f-4491-a2f4-6f372ad95138" height=100/> |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |                            조창욱                            |                            이나현                            |                            김민석                            |                            유제은                            |                            김정모                            |                            송의혁                            |
 | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/Chochanguk) | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/sksmsdlskgus) | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/minseokKim6823) | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/YuJeeun) | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/mojeeeeong) | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/euihyeok-song) |
 
 
-## 💡 기술 스택
-
+## ⚙️🛠️ Technical Stack
 ### Frontend
 
 ![Vue 3](https://img.shields.io/badge/Vue_3-4FC08D.svg?&logo=vue.js&logoColor=white)
