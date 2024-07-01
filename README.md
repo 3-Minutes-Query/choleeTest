@@ -4,7 +4,7 @@
 </div>
  <h2>🍛 Group 3 - Minute Query</h2>
 <table>
-  <tbody align="center">
+  <tbody>
     <tr>
       <td align="center" width="16.66%">
         <a href="https://github.com/Chochanguk">
