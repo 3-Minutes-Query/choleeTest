@@ -1,6 +1,6 @@
 # 📢 혼밥세끼 
 
-> "Discover Korea Together: Connect, Share, and Thrive!"
+> "Take responsibility for three meals of people living alone"
 > ![image](https://github.com/beyond-sw-camp/be04-4th-OmokNoonE-OnionHotSayYo/assets/118791747/3080ca9c-37dc-4734-b13a-a168ca033705)
 
 해외에서 살아가는 입장에서는 현지인에게는 당연한 것들이 외국인의 눈에는 새롭고 낯설게 느껴질 때가 많습니다. 이와 같이 한국을 방문한 많은 외국인들도 같은 경험을 하게 됩니다.
