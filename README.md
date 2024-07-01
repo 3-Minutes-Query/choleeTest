@@ -1,4 +1,4 @@
-# 📢 배비서 ~ 
+# 📢 혼밥세끼 
 
 > "Discover Korea Together: Connect, Share, and Thrive!"
 > ![image](https://github.com/beyond-sw-camp/be04-4th-OmokNoonE-OnionHotSayYo/assets/118791747/3080ca9c-37dc-4734-b13a-a168ca033705)
