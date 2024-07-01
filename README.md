@@ -11,7 +11,7 @@
 
 <br>
 
-## 🍛 Group 3 - Minute Query
+## 🍛 Group 3 Team Member - `3 Minute Query`
 
 | <img src="https://avatars.githubusercontent.com/u/119058637?v=4" height=100/> | <img src="https://github.com/3-Minutes-Query/choleeTest/assets/102345450/535b423b-f9c6-4c9a-8052-d1484c7145fb" height=100/> | <img src="https://github.com/3-Minutes-Query/choleeTest/assets/102345450/1046b24a-5d40-4dc1-a747-cb65f20dc764" height=100/> | <img src="https://github.com/3-Minutes-Query/choleeTest/assets/102345450/3679e77e-3678-4f16-a927-04b2c9f2309d" height=100/> | <img src="https://github.com/3-Minutes-Query/choleeTest/assets/102345450/e5de118d-7587-416b-bd9b-d965db443df1" height=100/> | <img src="https://github.com/3-Minutes-Query/choleeTest/assets/102345450/589d04ac-c48f-4491-a2f4-6f372ad95138" height=100/> |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -56,9 +56,9 @@
 <br>
 
 
-## 🤔 회고
+## 📜 회고
 
-| &nbsp;&nbsp;팀&nbsp;원&nbsp;&nbsp;&nbsp; | 회고록 |
+| &nbsp;&nbsp;Team Member&nbsp;&nbsp;&nbsp; | 회고록 |
 | :--------------------------------------: | ------ |
 |                  조창욱                  | 인정? |
 |                  이나현                  | 어쩔방구 |
