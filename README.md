@@ -2,7 +2,7 @@
   <img width="500" alt="스크린샷 2024-04-03 오전 11 04 23" src="https://github.com/Caps-Job-Hunting/coding-test-first-class/assets/114224596/0196c88a-e47a-4a3d-8cd8-886bd724a802">
   <h1>배비서</h1>
 </div>
-## 🍛 Group 3 - minute Query
+ <h2>🍛 Group 3 - minute Query</h2>
 <table>
   <tbody>
     <tr>
