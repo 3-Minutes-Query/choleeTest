@@ -11,9 +11,11 @@
       <td align="center"  width="16.66%"><a href="https://github.com/sksmsdlskgus"><img src="https://avatars.githubusercontent.com/u/114224596?s=64&v=4" width="100px;" alt="주현욱"/><br /><sub><b>주현욱</b></sub></a><br /> 1기 멤버(dev_hu) </td>
         <td align="center"  width="16.66%"><a href="https://github.com/YuJeeun"><img src="https://avatars.githubusercontent.com/u/58600024?v=4" width="100px;" alt="장재훈"/><br /><sub><b>장재훈</b></sub></a><br /> 1기 멤버 (dev_jh) </td>  
 <td align="center"  width="16.66%"><a href="https://github.com/minseokKim6823"><img src="https://avatars.githubusercontent.com/u/111051264?v=4" width="100px;" alt="이하늘"/><br /><sub><b>이하늘</b></sub></a><br /> 1기 멤버(dev_hn) </td>
-        <td align="center"  width="16.66%"><a href="https://github.com/euihyeok-song"><img src="https://github.com/3-Minutes-Query/choleeTest/assets/102345450/bcfdeb9b-3b83-41dc-8c28-a5c0dc39b9a4
+        <td align="center"  width="16.66%"><a href="https://github.com/euihyeok-song"><img src="![image](https://github.com/3-Minutes-Query/choleeTest/assets/102345450/1681a9b2-e54e-49f0-9f52-8f67de9e1c73)
+
 " width="100px;" alt="김소은"/><br /><sub><b>김소은</b></sub></a><br /> 1기 멤버(dev_se) </td>        
       <td align="center"  width="16.66%"><a href="https://github.com/mojeeeeong"><img src="https://avatars.githubusercontent.com/u/113659709?v=4" width="100px;" alt="김소은"/><br /><sub><b>김소은</b></sub></a><br /> 1기 멤버(dev_se) </td>      
-  </tbody>
+  </tbody>![image](https://github.com/3-Minutes-Query/choleeTest/assets/102345450/6bca1115-2689-44c9-ae7d-c1db83af826a)
+
 </table>
 </br>
