@@ -2,7 +2,7 @@
   <img width="500" alt="스크린샷 2024-04-03 오전 11 04 23" src="https://github.com/Caps-Job-Hunting/coding-test-first-class/assets/114224596/0196c88a-e47a-4a3d-8cd8-886bd724a802">
   <h1>배비서</h1>
 </div>
-🍛 3분 쿼리
+## 🍛 Group 3 - minute Query
 <table>
   <tbody>
     <tr>
@@ -11,7 +11,7 @@
           <img src="https://avatars.githubusercontent.com/u/119058637?v=4" width="100px;" alt="조창욱"/><br />
           <sub><b>조창욱</b></sub>
         </a><br />
-        <span>1기 팀장 (dev_cu)</span>
+        <span>`ESTJ`</span>
       </td>
       <td align="center" width="16.66%">
         <a href="https://github.com/sksmsdlskgus">
