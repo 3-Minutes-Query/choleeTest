@@ -54,3 +54,15 @@
 ![Jasypt](https://img.shields.io/badge/Jasypt-0045B9?logo=Jasypt&logoColor=white)
 
 <br>
+
+
+## 🤔 회고
+
+| &nbsp;&nbsp;팀&nbsp;원&nbsp;&nbsp;&nbsp; | 회고록 |
+| :--------------------------------------: | ------ |
+|                  조창욱                  | 인정? |
+|                  이나현                  | 어쩔방구 |
+|                  김민석                  | 아니 그니까|
+|                  유제은                  | 어? 금지 |
+|                  김정모                  | 헤헤 |
+|                  송의혁                  | 기똥차다 ~ |
