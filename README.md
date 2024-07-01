@@ -1,8 +1,8 @@
-![image](https://github.com/3-Minutes-Query/choleeTest/assets/102345450/8e807453-ceaa-4c86-8f94-a01aadb7ec32)# 📢 혼밥세끼 
+# 📢 혼밥세끼 
 
 `"Take responsibility for three meals of people living alone"`
 
->  <img src="https://github.com/3-Minutes-Query/choleeTest/assets/102345450/07312981-6db0-4c0c-8490-d892c2f18514" alt="배너 이미지 칸" width="100%" height="300">
+> [ <img src="https://github.com/3-Minutes-Query/choleeTest/assets/102345450/07312981-6db0-4c0c-8490-d892c2f18514" alt="배너 이미지 칸" width="100%" height="300">](https://github.com/3-Minutes-Query/choleeTest/assets/102345450/07312981-6db0-4c0c-8490-d892c2f18514)
 
 
 회원가입 페이지
