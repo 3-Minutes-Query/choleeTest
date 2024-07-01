@@ -1,7 +1,7 @@
 # 📢 혼밥세끼 
 
 > "Take responsibility for three meals of people living alone"
->  <img src="https://github.com/3-Minutes-Query/choleeTest/assets/102345450/54d4a6c2-cf36-4b4e-a6d3-947880e6afc5" alt="배너 이미지 칸" width="100%">
+>  <img src="https://github.com/3-Minutes-Query/choleeTest/assets/102345450/54d4a6c2-cf36-4b4e-a6d3-947880e6afc5" alt="배너 이미지 칸" width="100%" height="30%">
 
 
 해외에서 살아가는 입장에서는 현지인에게는 당연한 것들이 외국인의 눈에는 새롭고 낯설게 느껴질 때가 많습니다. 이와 같이 한국을 방문한 많은 외국인들도 같은 경험을 하게 됩니다.
