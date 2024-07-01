@@ -18,6 +18,7 @@
 |                            조창욱                            |                            이나현                            |                            김민석                            |                            유제은                            |                            김정모                            |                            송의혁                            |
 | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/Chochanguk) | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/sksmsdlskgus) | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/minseokKim6823) | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/YuJeeun) | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/mojeeeeong) | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/euihyeok-song) |
 
+<br>
 
 ## ⚙️🛠️ Technical Stack
 ### Frontend
