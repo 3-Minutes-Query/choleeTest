@@ -5,7 +5,7 @@
  <h2>🍛 Group 3 - Minute Query</h2>
 <table>
   <tbody>
-    <tr>
+    <tr align="center">
       <td align="center" width="16.66%">
         <a href="https://github.com/Chochanguk">
           <img src="https://avatars.githubusercontent.com/u/119058637?v=4" width="100px;" alt="조창욱"/><br />
